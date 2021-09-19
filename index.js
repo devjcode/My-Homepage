@@ -100,6 +100,7 @@ function replaceUrls(text) {
 Typer.speed=3;
 Typer.file="main.txt";
 Typer.init();
+document.addEventListener("keypress",handleKeyPress);
  
 var timer = setInterval("t();", 30);
 function t() {
@@ -107,5 +108,12 @@ function t() {
 	
 	if (Typer.index > Typer.text.length) {
 		clearInterval(timer);
+	}
+}
+
+function handleKeyPress(event) {
+	console.log(event);
+	if(event.key =='y' || event.key=='Y') {
+		location.href="main.html";
 	}
 }

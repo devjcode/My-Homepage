@@ -1,6 +1,57 @@
 body {
 	background-color: #000
 }
+header {
+	color:#fff;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	width:750px;
+	font-family: courier, monospace;
+	font-size: 12.5px;
+	border: dashed 1px rgba(219, 219, 219, 0.9);
+	border-top: border;
+	border-bottom: border;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li {
+	display: inline;
+}
+
+ul li a {
+	text-decoration: none;
+	color: #fff;
+}
+
+ul li a:hover {
+	text-decoration: none;
+	color: #000;
+	background-color: #fff;
+}
+
+
+main {
+	color:#fff;
+	width: 750px;
+	border: dashed 1px rgba(219, 219, 219, 0.9);
+	border-top: border;
+	border-bottom: border;
+	margin-top: 30px;
+	margin-right: auto;
+    margin-left: auto;
+
+}
+
+#pl {
+	display: block;
+}
+#pl li {
+	display: block;
+}
 
 #console {
 	font-family: courier, monospace;
