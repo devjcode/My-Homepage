@@ -1,5 +1,6 @@
 body {
-	background-color: #000
+	background-color: #000;
+	font-family: courier, monospace;
 }
 header {
 	color:#fff;
@@ -24,7 +25,7 @@ ul li {
 
 ul li a {
 	text-decoration: none;
-	color: #fff;
+	color: #DBDBDB;
 }
 
 ul li a:hover {

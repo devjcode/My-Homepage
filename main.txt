@@ -2,16 +2,16 @@
 <span id="a">jy@jcode.com</span>:<span id="b">~/jy/website</span><span id="c">$</span> cat hello.txt<br/><br/>
 Welcome to JCODE WebSite!<br>
 Hi, I'm jcode xD
-Here is my Portfolio WebSite. Enjoy yourself ~~!
+Here is my Portfolio WebSite. Feel free to look around !
 
 You can visit my other profiles, here:
 <a href="https://heady-meteoroid-72e.notion.site/a966df7a74ac41c1ad74dfc17227ea4e">Notion</a>
 <a href="https://github.com/devjocde">Github</a>
 <a href="https://velog.io/@devjcode">Velog</a>
 
-If you would like to get in touch with me, feel free to send me an email.
+If you would like to get in touch with me, please send me an email.
 My email address is here: <a href="mailto:jcodeofficer@gmail.com">jcodeofficer@gmail.com</a>
 
 Hava a good day my bro :)
 
-Enter 
+Do you want to Continue? (Y/n) 
