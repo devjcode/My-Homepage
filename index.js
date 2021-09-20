@@ -114,6 +114,6 @@ function t() {
 function handleKeyPress(event) {
 	console.log(event);
 	if(event.key =='y' || event.key=='Y') {
-		location.href="main.html";
+		location.replace('main.html');
 	}
 }
